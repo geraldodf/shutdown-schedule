@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shotdown-schedule:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shotdown_schedule_jar</output-path>
+    <root id="archive" name="shotdown-schedule.jar">
+      <element id="module-output" name="shotdown-schedule" />
+    </root>
+  </artifact>
+</component>
